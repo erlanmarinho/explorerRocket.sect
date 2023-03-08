@@ -40,7 +40,7 @@ Criamos uma página web rocket.sect, com HTML semântico e alguns conceitos de b
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nPOrpxtwiTJ5WyPW4Xrx6v/Explorer---Projeto-02-(Copy)?node-id=1%3A5&t=GsUH6F1k6qqGKUbK-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/0JflXiBPpYDgaeTQsrcQPd/Explorer-(Copy)?node-id=16-106&t=0Clu7CkMHYKY2VAa-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
